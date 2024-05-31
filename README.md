@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Passionate Frontend Developer**
 
-- 📫 How to reach me **sahanigautam9446162@gmail.com**
+- 📫 How to reach me **sahanigautam0446162@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
