@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [gsmSahani.github.io](gsmSahani.github.io)
 
-- 💬 Ask me about **Frontend Developer**
+- 💬 Ask me about **Frontend Developement**
 
 - 📫 How to reach me **sahanigautam0446162@gmail.com**
 
