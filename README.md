@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gautam Sahani</h1>
-<h3 align="center">A passionate and curious eager to explore and learn frontend developer from somewhere on Earth</h3>
+<h3 align="center">A passionate, curious and eager to learn and explore frontend techonologies and move forward to the backend gradually </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsmsahani&label=Profile%20views&color=0e75b6&style=flat" alt="gsmsahani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsmsahani" alt="gsmsahani" /></a> </p>
 
 - 🌱 I’m currently learning **React js and to learning to logic building with javascript solving problems**
 
