@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsmsahani&label=Profile%20views&color=0e75b6&style=flat" alt="gsmsahani" /> </p>
 
 
-- 🌱 I’m currently learning **React js and to learning to logic building with javascript solving problems**
+- 🌱 I’m currently learning **React js and logic building with javascript by solving problems**
 
 - 👨‍💻 All of my projects are available at [gsmSahani.github.io](gsmSahani.github.io)
 
-- 💬 Ask me about **Passionate Frontend Developer**
+- 💬 Ask me about **Frontend Developer**
 
 - 📫 How to reach me **sahanigautam0446162@gmail.com**
 
