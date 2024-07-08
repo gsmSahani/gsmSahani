@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React js and logic building with javascript by solving problems**
 
-- 👨‍💻 All of my projects are available at [gsmSahani.github.io](gsmSahani.github.io)
+- 👨‍💻 All of my projects are available at [gsmSahani.github.io](https://gsmsahani.github.io/gautam-sahani-portfolio/)
 
 - 💬 Ask me about **Frontend Developement**
 
